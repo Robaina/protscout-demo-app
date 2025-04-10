@@ -12,6 +12,7 @@ geopandas
 
 Pillow
 rdkit-pypi
+ipython_genutils
 
 # 3D Protein Visualization
 py3dmol
