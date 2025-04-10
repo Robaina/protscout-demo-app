@@ -1,0 +1,21 @@
+# Core framework
+streamlit
+
+# Data manipulation
+pandas
+
+# Plotting
+matplotlib
+plotly
+tabulate
+geopandas
+
+Pillow
+rdkit-pypi
+
+# 3D Protein Visualization
+py3dmol
+stmol >= 0.0.9 # Ensure a version that works well with py3Dmol
+
+# Optional: For potentially better TSV parsing if issues arise
+# python-tabulate # Not strictly needed if pandas handles it well
